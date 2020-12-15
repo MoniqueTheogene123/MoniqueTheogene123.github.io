@@ -1,0 +1,16 @@
+body {
+  background-image: url(../img/asanoha-400px.png);
+}
+
+.logo {
+  font-family: 'Noticia Text', ;
+}
+
+.logo a {
+  color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
